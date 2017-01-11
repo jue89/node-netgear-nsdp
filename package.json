@@ -1,0 +1,13 @@
+{
+  "name": "netgear-nsdp",
+  "version": "0.0.0",
+  "description": "Netgear Switch Descovery Protocol",
+  "main": "index.js",
+  "author": "Jue <me@jue.yt>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jue89/node-netgear-nsdp.git"
+  },
+  "license": "MIT",
+  "dependencies": { }
+}
